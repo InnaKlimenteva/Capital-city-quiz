@@ -1,0 +1,139 @@
+body {
+    background-color:#dcf7f4;
+    background-image: url('https://img.freepik.com/free-vector/world-continent-map-location-graphic-illustration_53876-6447.jpg?t=st=1716644514~exp=1716648114~hmac=ef9a5276875284aec07c0697ea234c870d22fb31faf4e2444dbc6cec322680b6&w=2000');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.container {
+   margin-top: 30px;
+    background-color: #fff; 
+    opacity: 0.9;
+    width: 400px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 10px ;
+    padding: 50px;
+    display: none;
+}
+
+h1 {
+    color: rgb(56, 43, 139);
+    font-family: "Pacifico", cursive;
+    text-align: center;
+    background-color: #fff;
+}
+
+label {
+    font-size: 18px;
+    color: rgb(56, 43, 139);
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.btn {
+    margin-top: 20px;
+    background-color: rgb(156, 91, 202);
+    color: #fff;
+    padding: 16px;
+    border-radius: 30px;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+    width: 70%;
+}
+
+.test {
+    padding: 10px;
+    margin-top: 20px;
+    font-weight: bold;
+    border:1px solid grey; 
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 10px ;
+    display: none;
+}
+
+.test:hover {
+    box-shadow: 0px 0px 15px rgb(156, 91, 202);
+    border:1px solid rgb(139, 26, 219); 
+}
+
+
+.result {
+    color: rgb(56, 43, 139);
+    font-size: 16px;
+    text-align: center;
+    font-family: "Roboto Flex", sans-serif;
+}
+
+.block {
+    display: none;
+    background-color: #fff;
+    padding: 10px;
+    font-family: "Pacifico", cursive;
+}
+
+.next {
+    padding: 7px;
+    margin-top: 20px; 
+    font-weight: bold;
+    font-size: 14px;
+    border:1px solid magenta; 
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 10px ;
+    width: 60%;
+    box-shadow: 0px 0px 10px magenta;
+}
+
+.next:hover {
+    box-shadow: 0px 0px 15px rgb(156, 91, 202);
+    border:1px solid rgb(139, 26, 219); 
+}
+
+.buttons {
+display: flex;
+flex-direction: column;
+height: 200px;
+align-items: center;
+}
+
+.header {
+ position: fixed;
+ right: 50px;
+}
+
+.btnStart {
+    background-color: magenta;
+    color: #fff;
+    font-size: 20px;
+    padding: 8px;
+    border-radius: 30px;
+    border: 1px rgb(156, 91, 202) solid; 
+    box-shadow: 0px 0px 10px rgb(156, 91, 202);
+}
+
+.btnStart:hover {
+    box-shadow: 0px 0px 15px magenta;
+    border: none;
+}
+
+.span {
+    position: absolute;
+}
+
+
+@media all and (max-width:500px){
+   h1{
+    font-size: 28px;
+   }
+
+   .container {
+    margin-top: 60px;
+    width: 300px;
+    padding: 7px;
+   }
+}
