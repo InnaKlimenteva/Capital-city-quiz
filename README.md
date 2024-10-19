@@ -10,8 +10,8 @@
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange.svg)
 ![CSS](https://img.shields.io/badge/CSS-3-blue.svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)
-![GSAP](https://img.shields.io/badge/GSAP-3.0-green.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-JS-yellow.svg)
+![GSAP](https://img.shields.io/badge/GSAP-animation-green.svg)
 
 ### Описание
 
@@ -29,7 +29,11 @@
 
 ### Контрибьюция
 
-Если вы хотите внести изменения или улучшения, пожалуйста, создайте Pull Request. Ваши идеи и отзывы приветствуются!
+Если вы хотите внести изменения или улучшения, пожалуйста, создайте Pull Request.
+Ваши идеи и отзывы приветствуются!
+
+<img src="https://media1.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.webp?cid=ecf05e47xsh1cz2etqsk09koxul5t3enb2zb7q40q50nurv6&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100"/>
+
 
 Для вопросов и предложений innaklimenteva@yandex.com
 
