@@ -1,6 +1,5 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE0dHBpb3dweG1meG14bW5meG90dWNhandmZWVoN2gwNzA1NmRldSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oawFl2jK9217kCdpmz/200w.webp"/>
-<img src="https://giphy.com/gifs/love-rain-umbrella-cnnzb1Z1qJd04LvnCZ"/>
-https://giphy.com/gifs/love-rain-umbrella-cnnzb1Z1qJd04LvnCZ
+
 
 ## Тест на знание столиц мира
 
